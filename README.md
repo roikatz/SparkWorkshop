@@ -11,7 +11,8 @@ Prerequisites:
      Community Editie.org/downloads.html
      read more on: https://spark.apache.org/documentation.html
   4. Install Intellij and install the Scala sbt plugin (Intellij is prefered, but Eclipse is OK too)
-     https://www.jetbon is suffice.
+     https://www.jetbrains.com/idea/download/
+     Community version is suffice.
      
      
 Enjoy the demos!
