@@ -28,6 +28,10 @@ further reading:
     https://spark.apache.org/docs/latest/cluster-overview.html
   5. nice start with scala
      https://www.youtube.com/watch?v=grvvKURwGNg
+  6. Don't forget about build.sbt 
+     It's crucial for outer dependencies.
+     I've uploaded it and it contains many dependencies.
+     please be patient first time, as it downloading many dependencies.
      
      
 Hope you Enjoyed the workshop!
