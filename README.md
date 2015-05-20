@@ -13,7 +13,7 @@ Prerequisites:
   4. Install Intellij and install the Scala sbt plugin (Intellij is prefered, but Eclipse is OK too)
      https://www.jetbrains.com/idea/download/
      Community version is suffice.
-     
+  5. Create new sbt project and use the scala files + sbt.
      
 Enjoy the demos!
 

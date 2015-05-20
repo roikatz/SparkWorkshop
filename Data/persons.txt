@@ -1,0 +1,12 @@
+Roi 30
+Avi 29
+David 33
+Ofir 35
+Nitzan 35
+Shlomo 40
+Ran 40
+Yuval 22
+Meni 34
+Hen 13
+Nina 33
+Yael 23
