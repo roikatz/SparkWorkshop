@@ -14,6 +14,9 @@ Prerequisites:
      https://www.jetbrains.com/idea/download/
      Community version is suffice.
   5. Create new sbt project and use the scala files + sbt.
+  6. For the couchbase example, please install couchbase (very simple installation)
+     http://www.couchbase.com/nosql-databases/downloads
+
      
 Enjoy the demos!
 
